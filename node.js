@@ -14,4 +14,3 @@ imprimeFrase = function () {
  
 carregaFrase(imprimeFrase);
  
-console.log(“Olá");
